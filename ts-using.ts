@@ -11,7 +11,6 @@ console.log(isActive);
 function test(inputString: string): void {
   return console.log(`${inputString} - Function test!`)
 }
-
 test("inputString");
 
 // 타입스크립트 배열
